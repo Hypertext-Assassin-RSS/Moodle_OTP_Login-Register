@@ -199,5 +199,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 ```
 
-#### Change the *fieldid* match the your database column id for mobile number 
+#### Change the *fieldid* match the your database column id for mobile number in
+
++ token.php
++ verify_otp.php
++ verify_user.php
 
